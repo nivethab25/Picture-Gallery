@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PictureGallery</string>
+    <string name="DangerousPermission">Access PictureGallery</string>
+</resources>
